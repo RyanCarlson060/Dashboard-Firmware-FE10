@@ -13,7 +13,7 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Dashboard\Dashboard\TopDesign">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Dashboard\Dashboard\Source Files\Display_Drivers\frucd_display.c">
 <ExpandedNodeIds>
 <v>Dashboard</v>
 <v>Dashboard\Dashboard</v>
@@ -29,6 +29,7 @@
 <v>Dashboard\Dashboard\Dashboard.cydwr\Flash Security</v>
 <v>Dashboard\Dashboard\Dashboard.cyre</v>
 <v>Dashboard\Dashboard\Header Files\cyapicallbacks.h</v>
+<v>Dashboard\Dashboard\Source Files</v>
 <v>Dashboard\Dashboard\Source Files\Display_Drivers</v>
 <v>Dashboard\Dashboard\Source Files\Display_Drivers\frucd_display.c</v>
 <v>Dashboard\Dashboard\Source Files\Display_Drivers\frucd_display.h</v>
@@ -64,6 +65,20 @@
 <v>Dashboard\Dashboard\Dashboard.cyre</v>
 <v>Dashboard\Dashboard\Header Files</v>
 <v>Dashboard\Dashboard\Source Files</v>
+<v>Dashboard\Dashboard\Source Files\Display_Drivers</v>
+<v>Dashboard\Dashboard\Source Files\Display_Drivers\frucd_display.c</v>
+<v>Dashboard\Dashboard\Source Files\Display_Drivers\frucd_display.h</v>
+<v>Dashboard\Dashboard\Source Files\Display_Drivers\ugui.c</v>
+<v>Dashboard\Dashboard\Source Files\Display_Drivers\ugui.h</v>
+<v>Dashboard\Dashboard\Source Files\Display_Drivers\ugui_config.h</v>
+<v>Dashboard\Dashboard\Source Files\Display_Drivers\ugui_SSD1963.c</v>
+<v>Dashboard\Dashboard\Source Files\Display_Drivers\ugui_SSD1963.h</v>
+<v>Dashboard\Dashboard\Source Files\can_manga.c</v>
+<v>Dashboard\Dashboard\Source Files\can_manga.h</v>
+<v>Dashboard\Dashboard\Source Files\data.h</v>
+<v>Dashboard\Dashboard\Source Files\device.h</v>
+<v>Dashboard\Dashboard\Source Files\LED.h</v>
+<v>Dashboard\Dashboard\Source Files\main.c</v>
 <v>Dashboard\Dashboard\CAN_Full_Example.pdf</v>
 <v>Dashboard\Dashboard\Generated_Source</v>
 </VisibleNodeIds>
@@ -264,7 +279,7 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1117, 439" SelectedTabbedMdiWindow="dd1d9df9-c8d1-4954-a4c7-449e54cc570d"><DocumentWindow Key="\\Mac\Home\Desktop\Dashboard-Firmware-FE10\Dashboard.cydsn\Dashboard.cydwr" Guid="dd1d9df9-c8d1-4954-a4c7-449e54cc570d" /><DocumentWindow Key="\\Mac\Home\Desktop\Dashboard-Firmware-FE10\Dashboard.cydsn\TopDesign\TopDesign.cysch" Guid="e995badb-4c5f-4528-9fe2-8b39bcd7b8be" /><DocumentWindow Key="\\Mac\Home\Desktop\Dashboard-Firmware-FE10\Dashboard.cydsn\frucd_display.c" Guid="5a3f3ca2-37d9-40d1-bbc2-aa938ea01800" /><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="1821e8e0-552d-4edf-8ed5-0c157b6e048a" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="919, 443" SelectedTabbedMdiWindow="e995badb-4c5f-4528-9fe2-8b39bcd7b8be"><DocumentWindow Key="\\Mac\Home\Desktop\Dashboard-Firmware-FE10\Dashboard.cydsn\Dashboard.cydwr" Guid="dd1d9df9-c8d1-4954-a4c7-449e54cc570d" /><DocumentWindow Key="\\Mac\Home\Desktop\Dashboard-Firmware-FE10\Dashboard.cydsn\TopDesign\TopDesign.cysch" Guid="e995badb-4c5f-4528-9fe2-8b39bcd7b8be" /><DocumentWindow Key="\\Mac\Home\Desktop\Dashboard-Firmware-FE10\Dashboard.cydsn\frucd_display.c" Guid="5a3f3ca2-37d9-40d1-bbc2-aa938ea01800" /><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="1821e8e0-552d-4edf-8ed5-0c157b6e048a" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="Release" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
