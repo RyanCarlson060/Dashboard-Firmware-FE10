@@ -49,7 +49,6 @@
 <v>Dashboard\Dashboard\Generated_Source</v>
 </ExpandedNodeIds>
 <VisibleNodeIds>
-<v>Dashboard</v>
 <v>Dashboard\Dashboard</v>
 <v>Dashboard\Dashboard\TopDesign</v>
 <v>Dashboard\Dashboard\Dashboard.cydwr</v>
@@ -77,6 +76,14 @@
 <v>Dashboard\Dashboard\Source Files\can_manga.h</v>
 <v>Dashboard\Dashboard\Source Files\data.h</v>
 <v>Dashboard\Dashboard\Source Files\device.h</v>
+<<<<<<< Updated upstream
+=======
+<v>Dashboard\Dashboard\Source Files\LED.h</v>
+<v>Dashboard\Dashboard\Source Files\main.c</v>
+<v>Dashboard\Dashboard\CAN_Full_Example.pdf</v>
+<v>Dashboard\Dashboard\Generated_Source</v>
+<v>Dashboard\Dashboard\Generated_Source\PSoC4</v>
+>>>>>>> Stashed changes
 </VisibleNodeIds>
 </CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
 <CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
@@ -243,11 +250,15 @@
 </CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
 <Unloaded />
 <OpenDocs>
+<<<<<<< Updated upstream
 <name v=".\Dashboard.cydsn\frucd_display.h" />
 <name v=".\Dashboard.cydsn\frucd_display.c" />
 <name v=".\Dashboard.cydsn\ugui.c" />
 <name v=".\Dashboard.cydsn\main.c" />
 <name v=".\Dashboard.cydsn\can_manga.c" />
+=======
+<name v=".\Dashboard.cydsn\TopDesign\TopDesign.cysch" />
+>>>>>>> Stashed changes
 </OpenDocs>
 <OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
 
@@ -255,7 +266,11 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
+<<<<<<< Updated upstream
 --><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="570, 355" SelectedTabbedMdiWindow="6c6881fa-34df-4c6a-884d-fc360caed15d"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="1821e8e0-552d-4edf-8ed5-0c157b6e048a" /><DocumentWindow Key="\\Mac\Home\Downloads\Dashboard-Firmware-FE9-FE7-Board-main\Dashboard.cydsn\frucd_display.h" Guid="aa2d82e1-9a42-4cec-8e5b-80423c67518f" /><DocumentWindow Key="\\Mac\Home\Downloads\Dashboard-Firmware-FE9-FE7-Board-main\Dashboard.cydsn\frucd_display.c" Guid="6c6881fa-34df-4c6a-884d-fc360caed15d" /><DocumentWindow Key="\\Mac\Home\Downloads\Dashboard-Firmware-FE9-FE7-Board-main\Dashboard.cydsn\ugui.c" Guid="acc36b39-009e-4cbf-9ca7-ca34a586624a" /><DocumentWindow Key="\\Mac\Home\Downloads\Dashboard-Firmware-FE9-FE7-Board-main\Dashboard.cydsn\main.c" Guid="05e68f8e-148a-4109-a9c8-5bbd7d4a9a77" /><DocumentWindow Key="\\Mac\Home\Downloads\Dashboard-Firmware-FE9-FE7-Board-main\Dashboard.cydsn\can_manga.c" Guid="748f0345-2318-4364-a3b0-30be47d70db9" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+=======
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="919, 443" SelectedTabbedMdiWindow="87819131-9773-4692-a170-d66322dae81c"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="1821e8e0-552d-4edf-8ed5-0c157b6e048a" /><DocumentWindow Key="\\Mac\Home\Desktop\Dashboard-Firmware-FE10\Dashboard.cydsn\TopDesign\TopDesign.cysch" Guid="87819131-9773-4692-a170-d66322dae81c" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+>>>>>>> Stashed changes
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
